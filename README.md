@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [OffChangeX a project started during Le Wagon bootcamp](https://github.com/Fr4nsy32/off-change-x)
 
-- 🌱 I’m currently learning **React native, API testing and management**
+- 🌱 I’m currently learning **React native, API testing with Postman, API management and authentication**
 
-- 💬 Ask me about **API**
+- 💬 Ask me about **API, Rails, Postman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
