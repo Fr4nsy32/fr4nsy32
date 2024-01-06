@@ -23,8 +23,7 @@
   &nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
   &nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
   &nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;<img ![image](https://github.com/Fr4nsy32/fr4nsy32/assets/62887350/9a236b40-836c-44a5-bdfd-8560fff75730)
- width="45" height="45"/>
+  &nbsp;&nbsp;&nbsp;<img src="https://github.com/Fr4nsy32/fr4nsy32/assets/62887350/9a236b40-836c-44a5-bdfd-8560fff75730" width="45" height="45"/>
   &nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
   &nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
           </p>
