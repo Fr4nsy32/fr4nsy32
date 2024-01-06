@@ -1,5 +1,4 @@
-<h1 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%👋%I'm%20Andi!&fontSize=50&animation=scaleIn&fontColor=auto&fontAlignY=40&desc=Fullstack%20developer%20passioned%20about%20backend" /><h1>
-<h3 align="center">Fullstack developer passioned about backend</h3> 
+<h2 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%👋%I'm%20Andi!&fontSize=50&animation=scaleIn&fontColor=auto&fontAlignY=40&desc=Fullstack%20developer%20passioned%20about%20backend" /><h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fr4nsy32&label=Profile%20views&color=0e75b6&style=flat" alt="fr4nsy32" /> </p>
 
