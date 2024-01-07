@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fr4nsy32&label=Profile%20views&color=0e75b6&style=flat" alt="fr4nsy32" /> </p>
 
-<p>- 🔭 I’m currently working on [OffChangeX a project started during Le Wagon bootcamp](https://github.com/Fr4nsy32/off-change-x)</p>
+- 🔭 I’m currently working on [OffChangeX a project started during Le Wagon bootcamp](https://github.com/Fr4nsy32/off-change-x)
 
-<p>- 🌱 I’m currently learning **React, API testing with Postman, API management and authentication and backend design patterns**</p>
+- 🌱 I’m currently learning **React, API testing with Postman, API management and authentication and backend design patterns**
 
-<p>- 💬 Ask me about **API, Rails, Postman**</p>
+- 💬 Ask me about **API, Rails, Postman**
 
 
 <h3 align="left">Languages and Tools:</h3>
