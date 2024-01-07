@@ -4,9 +4,9 @@
 
 <p>- 🔭 I’m currently working on [OffChangeX a project started during Le Wagon bootcamp](https://github.com/Fr4nsy32/off-change-x)</p>
 
-- 🌱 I’m currently learning **React, API testing with Postman, API management and authentication and backend design patterns**
+<p>- 🌱 I’m currently learning **React, API testing with Postman, API management and authentication and backend design patterns**</p>
 
-- 💬 Ask me about **API, Rails, Postman**
+<p>- 💬 Ask me about **API, Rails, Postman**</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
