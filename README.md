@@ -39,6 +39,8 @@
   &nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45" height="45"/>
   </p>
 
+
+
 <h3 align="left">🔥My stats:</h3>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fr4nsy32&layout=compact&theme=radical)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Streak](https://streak-stats.demolab.com?user=fr4nsy32&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
