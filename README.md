@@ -3,8 +3,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fr4nsy32&label=Profile%20views&color=0e75b6&style=flat" alt="fr4nsy32" />  <a href="https://www.linkedin.com/in/andi-sina/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
 
 
-<br>
-<br>
 <h3>👨‍💻 About me:</h3>
 
 - 🔭 I’m currently working on [OffChangeX a project started during Le Wagon bootcamp](https://github.com/Fr4nsy32/off-change-x) while looking for a new project
@@ -13,7 +11,8 @@
 
 - 💬 Ask me about **API, Rails, Postman**
 
-
+<br>
+<br>
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
 
