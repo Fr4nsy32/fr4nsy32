@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%👋%I'm%20Andi!&fontSize=50&animation=scaleIn&fontColor=auto&fontAlignY=40&desc=Fullstack%20developer%20passioned%20about%20backend" /><h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fr4nsy32&label=Profile%20views&color=0e75b6&style=flat" alt="fr4nsy32" />  <i class="fa-solid fa-circle-arrow-right fa-beat-fade fa-sm"></i> <a href="https://www.linkedin.com/in/andi-sina/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fr4nsy32&label=Profile%20views&color=0e75b6&style=flat" alt="fr4nsy32" />  <a href="https://www.linkedin.com/in/andi-sina/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
 
 <h3>👨‍💻 About me:</h3>
 
