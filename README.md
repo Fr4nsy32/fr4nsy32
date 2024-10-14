@@ -5,11 +5,9 @@
 
 <h3>👨‍💻 About me:</h3>
 
-- 🔭 I’m currently working on [OffChangeX a project started during Le Wagon bootcamp](https://github.com/Fr4nsy32/off-change-x) while looking for a new project
+- 🔭 I’m currently working on [MakrShaker](https://www.makrshakr.com/) as a Javascript Developer.
 
-- 🌱 I’m currently learning **React, API testing with Postman, API management/authentication and backend design patterns**
-
-- 💬 Ask me about **API, Rails, Postman**
+- 🌱 Currently working with React, NextJS, and API integrations with front-end applications.
 
 <br>
 <h3 align="left">🛠️ Languages and Tools:</h3>
