@@ -5,7 +5,7 @@
 
 <h3>👨‍💻 About me:</h3>
 
-- 🔭 I’m currently working at [MakrShakr](https://www.makrshakr.com/) as a Javascript Developer.
+- 🔭 I’m currently looking for a new position as Junior fullstack developer.
 
 - 🌱 Currently working with React, NextJS, and API integrations with front-end applications.
 
