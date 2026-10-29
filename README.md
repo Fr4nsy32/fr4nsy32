@@ -16,7 +16,7 @@
 
 - 🔭 I'm currently looking for a new position as a **Junior Fullstack Developer**.
 - 🌱 Currently working with **React**, **Next.js** and integrating **APIs** into front-end applications.
-- ⚙️ I build backends with **Ruby on Rails** and **Node.js / Express**, and I like automating everything that can be automated.
+- ⚙️ I build backends with **Ruby on Rails** and **Node.js / Nest.js**, and I like automating everything that can be automated.
 - 🤖 I use **AI-assisted tooling** and **workflow automation** to ship faster without cutting corners on quality.
 - 🌐 See my work and get in touch: **[as-web.dev](https://www.as-web.dev)**
 
