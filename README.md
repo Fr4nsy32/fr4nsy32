@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Andi!&fontSize=50&animation=scaleIn&fontColor=auto&fontAlignY=40&desc=Fullstack%20developer%20passionate%20about%20backend%20%26%20automation" alt="Hi, I'm Andi!" />
-</h1>
+<h2 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%👋%I'm%20Andi!&fontSize=50&animation=scaleIn&fontColor=auto&fontAlignY=40&desc=Fullstack%20developer%20passioned%20about%20backend" /><h2>
 
 <p align="center">
   <a href="https://www.as-web.dev" target="_blank">
