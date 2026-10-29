@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.as-web.dev" target="_blank">
- 
+    <img src="https://img.shields.io/badge/as--web.dev-0A0A0A?style=for-the-badge" alt="Portfolio" />
   </a>
     <img src="https://komarev.com/ghpvc/?username=fr4nsy32&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <a href="https://www.linkedin.com/in/andi-sina/" target="_blank">
